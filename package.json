@@ -1,6 +1,6 @@
 {
   "name": "opencode-tps-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Real-time AI generation speed and token throughput monitor for OpenCode",
   "author": "qiming-zhao",
   "repository": {
@@ -22,6 +22,8 @@
   "files": [
     "dist",
     "README.md",
+    "README.zh-CN.md",
+    "docs/screenshot-use.png",
     "LICENSE"
   ],
   "scripts": {

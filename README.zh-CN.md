@@ -4,6 +4,12 @@
 
 [OpenCode](https://opencode.ai) 的实时 AI 生成速度与 Token 吞吐量监控插件。在模型生成输出时，直接在 OpenCode TUI 状态栏显示实时 **tokens-per-second (TPS)** 指标。
 
+## 截图
+
+![OpenCode TUI 中显示 TPS 监控的示例](./docs/screenshot-use.png)
+
+> OpenCode 会话中的示例输出，具体数值会因模型和会话而异。
+
 ## 功能特性
 
 - **实时 TPS 显示** — 在提示栏显示即时速度、滚动平均值、Token 总数和已用时间

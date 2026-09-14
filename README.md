@@ -4,6 +4,12 @@
 
 Real-time AI generation speed and token throughput monitor for [OpenCode](https://opencode.ai). Displays live **tokens-per-second (TPS)** metrics directly in the OpenCode TUI status bar while the model generates output.
 
+## Screenshot
+
+![OpenCode TUI showing the TPS monitor](./docs/screenshot-use.png)
+
+> Illustrative output from an OpenCode session; values vary by model and session.
+
 ## Features
 
 - **Real-time TPS display** — instant speed, rolling average, token count, and elapsed time in the prompt status bar
